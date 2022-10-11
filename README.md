@@ -4,4 +4,4 @@ In this first engagement, you are required to enter all missing semantic HTML ta
 Once you have completed semantic tagging, the html file should be correctly formatted by the accompanying css styles.
 
 Although we will cover css later in the unit, please go through the css file and try to make sense how the formatting actually takes place!
-# Deadline: Tue 18 Oct 2022 23:59
+### Deadline: Tue 18 Oct 2022 23:59
